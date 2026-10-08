@@ -1,4 +1,4 @@
-`timescale 1ns / 1ps
+
 
 // =============================================================================
 // mem_bank_integrated.v  —  Drop-in replacement for mem_bank_update.v
