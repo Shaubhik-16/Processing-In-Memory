@@ -1,4 +1,4 @@
-`timescale 1ns / 1ps
+
 
 module memory_bank #(parameter ds=3)(
     input            clk,
